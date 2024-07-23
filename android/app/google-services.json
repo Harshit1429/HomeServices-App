@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410865812642",
+    "project_id": "zlmhomeservices",
+    "storage_bucket": "zlmhomeservices.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410865812642:android:2b0f79bfb49ecfc96bc3fb",
+        "android_client_info": {
+          "package_name": "com.example.home_services"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8yHAhY7XqTGdT0n8mI6qB9amtqoOK9_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
